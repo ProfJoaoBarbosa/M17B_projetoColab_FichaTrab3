@@ -18,6 +18,9 @@ public class M17B_projetoColab_FichaTrab3 {
         poligonos[0] = new Retangulo("a00000", 4, 3);
         System.out.println(poligonos[0]);
         
+        poligonos[4] = new Retangulo("a18596", 6, 4);
+        System.out.println(poligonos[0]);
+        
         // O que deve ser acrescentado ao código:
         // - na prática, repetir o código das linhas 18 e 19, mas instanciando
         //   um novo elemento do array, sem ser os de índices 0 e 19;
